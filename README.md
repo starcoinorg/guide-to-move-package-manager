@@ -12,7 +12,7 @@ Understanding how move package work is a prerequest.
 
 Download from the release page of [starcoiorg/starcoin](https://github.com/starcoinorg/starcoin).
 
-// Or use:
+Or use:
 
 ```
 cargo install --git https://github.com/starcoinorg/starcoin --bin mpm
