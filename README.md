@@ -4,12 +4,22 @@ Move Pacakge Manaager(mpm) is a command line tool to manage move pacakges, like 
 
 It integrates the latest move pacakge system introduced in [diem/move](https://github.com/diem/move/tree/main/language/tools/move-package),
 and reuse most functionality of [move-cli](https://github.com/diem/move/tree/main/language/tools/move-cli) by diem.
-
 **Before dive into this tutorial, please read the [pacakge section](https://github.com/diem/move/blob/main/language/documentation/book/src/packages.md) of move book first.**
 Understanding how move package work is a prerequest.
 
 
+## Installation
+
+Download from the release page of [starcoiorg/starcoin](https://github.com/starcoinorg/starcoin).
+
+// Or use:
+
+```
+cargo install --git https://github.com/starcoinorg/starcoin --bin mpm
+```
+
 ### Overview
+
 
 ``` shell
 move-package-manager
