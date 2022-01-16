@@ -1,15 +1,15 @@
 ## User Guide of Move Package Manager
 
 Move Pacakge Manaager(mpm) is a command line tool to manage move pacakges, like Cargo for Rust, or NPM for NodeJS.
-It integrates the latest move pacakge system introduced in [diem/move](https://github.com/diem/move/tree/main/language/tools/move-package),
 
+It integrates the latest move pacakge system introduced in [diem/move](https://github.com/diem/move/tree/main/language/tools/move-package),
 and reuse most functionality of [move-cli](https://github.com/diem/move/tree/main/language/tools/move-cli) by diem.
 
 **Before dive into this tutorial, please read the [pacakge section](https://github.com/diem/move/blob/main/language/documentation/book/src/packages.md) of move book first.**
 Understanding how move package work is a prerequest.
 
 
-### Overview of mpm
+### Overview
 
 ``` shell
 move-package-manager
@@ -46,11 +46,13 @@ SUBCOMMANDS:
 
 
 mpm is a convenient wrapper and superset of [diem/move-cli](https://github.com/diem/move/tree/main/language/tools/move-cli).
+
 What applies to move-cli is also applied to mpm.
 
 **So, We recommend you to go through the [tutorial](https://github.com/diem/move/tree/main/language/documentation/tutorial) written by diem.**
 
 In that tutorial, you can add an alias `alias move="mpm"` so that you can invoke move as it is.
+
 You can check that it is working by running the following command:
 
 ```
