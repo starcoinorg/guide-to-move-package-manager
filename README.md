@@ -1,6 +1,6 @@
 ## User Guide of Move Package Manager
 
-Move Pacakge Manaager(mpm) is a command line tool to manage move pacakges, like Cargo for Rust, or NPM for NodeJS.
+Move Pacakge Manager(mpm) is a command line tool to develop move projects, like Cargo for Rust, or NPM for NodeJS.
 
 It integrates the latest move pacakge system introduced in [diem/move](https://github.com/diem/move/tree/main/language/tools/move-package),
 and reuse most functionality of [move-cli](https://github.com/diem/move/tree/main/language/tools/move-cli) by diem.
