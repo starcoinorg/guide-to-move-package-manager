@@ -109,7 +109,7 @@ SUBCOMMANDS:
 
 ### Spec Test
 
-Based on move-cli, mpm add the support to write spec test to test your move pacakge in the whole.
+Based on move-cli, mpm add the support of spec test to test your move project in the whole.
 
 It can simulates:
 
@@ -118,11 +118,13 @@ It can simulates:
 - module publishing.
 - execute scripts or script function.
 
-All actions are wrapped into transactions like what real happens onchain.
+All actions are wrapped into transactions.
 
-All spec test files should be in `spectests` dir under the package root paht.
+All spec test files should be in `spectests` dir under the package root path.
+
 spec test file contains test directives seperated by empty newlines.
-directives works like a command line, you provide command name and command arguments.
+
+directives works like a command line, you provide command name and command arguments,
 and move pacakge manager executes the directives like OS executes cli commands.
 
 
