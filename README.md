@@ -466,6 +466,12 @@ mpm spectest test_coin_swap
 
 This's all about spec test of move.
 
+## More example
+
+1. [basic-coin](./basic-coin/)
+2. [coin-swap](./coin-swap/)
+3. [simple-nft](./simple-nft/) A NFT example
+
 ## Questions
 
 If you have any question, please go to [Starcoin/move-lang channel in Discord](https://discord.com/channels/822159062475997194/892760287797714954).
