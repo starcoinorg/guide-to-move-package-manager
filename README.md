@@ -15,7 +15,7 @@ Download from the release page of [starcoiorg/starcoin](https://github.com/starc
 Or use:
 
 ```
-cargo install --git https://github.com/starcoinorg/starcoin --bin mpm
+cargo install --git https://github.com/starcoinorg/starcoin move-package-manager --bin mpm
 ```
 
 ### Overview
