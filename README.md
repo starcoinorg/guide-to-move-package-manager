@@ -470,7 +470,9 @@ This's all about spec test of move.
 
 1. [basic-coin](./basic-coin/)
 2. [coin-swap](./coin-swap/)
-3. [simple-nft](./simple-nft/) A NFT example
+3. [my-token](./my-token/)
+4. [my-counter](./my-counter/)
+5. [simple-nft](./simple-nft/) A NFT example
 
 ## Questions
 
