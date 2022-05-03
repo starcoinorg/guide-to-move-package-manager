@@ -1,3 +1,5 @@
+# All documents and examples have all been migrated to [starcoin-cookbook](https://github.com/starcoinorg/starcoin-cookbook)
+
 ## User Guide of Move Package Manager
 
 Move Package Manager(mpm) is a command line tool to develop move projects, like Cargo for Rust, or NPM for NodeJS.
